@@ -12,7 +12,7 @@
 
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codestates&repo=JoopJoop)](https://github.com/codestates/JoopJoop)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codestates&repo=DogGain)](https://github.com/codestates/DogGain)
+
 
 
 
