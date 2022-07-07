@@ -1,8 +1,14 @@
-### Hi there 👋
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=E3826C&height=150&section=header&text=Hyeonwoo%20Bae&fontSize=60&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a>
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woobaeh)](https://github.com/woobaeh/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woobaeh&hide=less,scss,ruby)](https://github.com/woobaeh/github-readme-stats)
+
+
 <!--
 **woobaeh/woobaeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
